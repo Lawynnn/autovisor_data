@@ -2,5 +2,5 @@
   "announce": "Foloseste codul <strong>\"REDDIT2026\"</strong> pentru <font color='red'>o scanare gratuita</font>",
   "date": "25/2/2026",
   "icon": "discount",
-  "id": "1"
+  "id": "2"
 }
