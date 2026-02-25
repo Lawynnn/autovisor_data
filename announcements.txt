@@ -1,0 +1,5 @@
+{
+  "announce": "Foloseste codul [s]\"REDDIT2026\"[/s] pentru [c.red]o scanare gratuita[/c.red]",
+  "date": "25/2/2026",
+  "icon": "discount"
+}
